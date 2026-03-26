@@ -1,0 +1,19 @@
+Questions from Lesson 6 (Validation of SDTMs and ADaMs)
+1.	When qcing lab listings, what does the scope approach mean?
+The scope approach means to looks at all patients and lab tests when QCing.
+
+2.	In a qc excel file, in general, how many types of questions are there and what are the section names?
+There are 22 different QC questions, split into 4 sections called “Output file”, “SAS log”, “Source program”, and “SDTM”.
+
+3.	Which type of error is ‘Appear when statement is correct, but data is invalid such as taking the log value of zero.  Problem data values are written to the log.’? 
+This is a data error.
+
+4.	 What tool does FDA use to qc SDTMs and ADaMs?
+Open CDISC Validator tool
+
+5.	Which SAS procedure provides access to the dictionary tables?
+Dictionaries can be accessed (read-only) through multiple procedures, including PROC SQL.
+
+6.	What is the dictionary table name that contains the ‘List of data sets and columns names’?
+Dictionary.tables
+
